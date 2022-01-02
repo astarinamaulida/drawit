@@ -4,7 +4,7 @@ Hi, this is a paint app where you can draw and sketch your creativity.
 It's still on progress, so, stay tune!
 The project logo that I created:
 
-![Drawit]<img src="/public/drawit_logo.png" width="100" height="100">
+<img src="/public/drawit_logo.png" width="300" height="300">
 
 
 # Getting Started with Create React App
