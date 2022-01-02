@@ -1,6 +1,9 @@
 # On progress: Drawit App
 
-![Drawit](/public/drawit-logo.png)
+Hi, this is a paint app where you can draw and sketch your creativity.
+It's still on progress, so, stay tune!
+The project logo that I created:
+![Drawit](/public/drawit_logo.png)
 
 
 # Getting Started with Create React App
